@@ -1,3 +1,5 @@
 # WebApp_Practice
 
-spring XML-configurations + java code
+This repository is designed to study spring. 
+Using XML configuration with Java code and
+entirely using only Java code
